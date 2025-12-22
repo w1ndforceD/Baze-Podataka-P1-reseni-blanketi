@@ -191,4 +191,6 @@ HAVING COUNT(DISTINCT p.id_proizvoda) = (
         FROM prodaje p2
         GROUP BY p2.id_trafike
     )
+
 );
+-- test
