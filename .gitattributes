@@ -1,9 +1,2 @@
-# Force SQL
+*.sql linguist-detectable=true
 *.sql linguist-language=SQL
-
-# Don't count these files in language stats
-*.doc  linguist-vendored
-*.docx linguist-vendored
-*.pdf  linguist-vendored
-*.txt  linguist-vendored
-*.md   linguist-documentation
