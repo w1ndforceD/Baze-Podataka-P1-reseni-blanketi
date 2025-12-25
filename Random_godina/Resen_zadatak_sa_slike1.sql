@@ -1,3 +1,5 @@
+--Nadjen resen nisam ja radio valjda je dobar--
+
 --a)
 CREATE TABLE KOMPANIJA(
 PIB NUMBER(20) PRIMARY KEY,
@@ -87,4 +89,5 @@ HAVING COUNT(V.ID)=(
         WHERE DAT_KRAJA IS NULL
         GROUP BY V1.PIBFIR
         )
+
 )
