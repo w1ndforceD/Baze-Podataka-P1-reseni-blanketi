@@ -86,5 +86,7 @@ Sadrži:
 ---
 
 ## Autor
-@w1ndforce 
+GitHub: [@w1ndforceD](https://github.com/w1ndforceD)
+
+
 Baze podataka – priprema kolokvijuma i ispita
